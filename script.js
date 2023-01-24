@@ -1,9 +1,9 @@
 const picturesArray = [
-  `<img src="/pictures/img-1.jpeg">`,
-  `<img src="/pictures/img-2.webp">`,
-  `<img src="/pictures/img-3.jpeg">`,
-  `<img src="/pictures/img-4.jpeg">`,
-  `<img src="/pictures/img-5.jpeg">`,
+  `<img src="pictures/img-1.jpeg">`,
+  `<img src="pictures/img-2.webp">`,
+  `<img src="pictures/img-3.jpeg">`,
+  `<img src="pictures/img-4.jpeg">`,
+  `<img src="pictures/img-5.jpeg">`,
 ];
 
 const firstImg = document.getElementById("first-img");
